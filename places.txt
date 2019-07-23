@@ -1,0 +1,14 @@
+bedroom
+  west: closet
+
+kitchen
+  east: bedroom
+  south: porch
+  west: closet
+  
+porch
+  north: kitchen
+  south: sidewalk
+
+sidewalk
+  south: street
